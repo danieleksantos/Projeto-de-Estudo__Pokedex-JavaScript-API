@@ -3,7 +3,7 @@
 Projeto focado em desenvolver habilidades com **JavaScript**, **consumo de APIs** e construção de interfaces interativas. 
 O objetivo foi criar uma aplicação dinâmica para listar e explorar informações sobre Pokémon, utilizando a [PokéAPI](https://pokeapi.co/).  
 
-![Pokédex Preview](https://github.com/danieleksantos/Projeto-de-Estudo__Pokedex-JavaScript-API/blob/main/src/images/print.png?raw=true)
+<img src="https://github.com/danieleksantos/Projeto-de-Estudo__Pokedex-JavaScript-API/blob/main/src/images/print.png?raw=true" alt="Pokédex Preview" width="600">
 
 ---
 
